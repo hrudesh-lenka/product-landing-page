@@ -1,2 +1,2 @@
 # product-landing-page
-Building a product kanding page as part of freeCodeCamp frontend project.
+Building a product landing page as part of freeCodeCamp frontend project.
