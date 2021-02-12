@@ -1,9 +1,31 @@
-.container{
-  display: flex;
-  flex-direction: column;
-  flex-basis: auto;
+#header-img{
+  width: 50px;
+  height: 50px;
 }
 
+header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#nav-bar, #nav-list{
+  display: inline-flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-basis: 75%;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  font-size: 1.8rem;
+}
+
+li{
+  list-style: none;
+}
 
 @@media (max-width: 720px) {
 
