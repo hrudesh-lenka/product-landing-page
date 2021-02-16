@@ -73,6 +73,24 @@ footer{
   justify-content: center;
 }
 
+#about-text{
+  display: flex;
+  margin-top: 5%;
+  justify-content: center;
+}
+
+#about-us{
+  display: flex;
+  justify-content: space-around;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-top: 1%;
+  font-weight: 100;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
 @@media (max-width: 720px) {
 
 }
